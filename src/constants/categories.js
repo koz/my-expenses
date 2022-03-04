@@ -1,0 +1,30 @@
+export const categories = {
+  Utilidades: "House",
+  Aluguel: "House",
+  Mercado: "Groceries",
+  Restaurante: "Restaurant",
+  "Aluguel de Carro": "Car",
+  Lazer: "Leisure",
+  Compras: "Shopping",
+  Cachorros: "Dogs",
+  Geral: "General",
+  Doações: "Donations",
+  Maconha: "Weed",
+  Assinaturas: "Subscriptions",
+  Seguro: "Insurance",
+};
+
+export const categoryIcons = {
+  House: "🏠",
+  Groceries: "🥑",
+  Restaurant: "🍟",
+  Car: "🚙",
+  Leisure: "💅",
+  Shopping: "🛍",
+  Dogs: "🐶",
+  General: "✨",
+  Donations: "🙏",
+  Weed: "🍃",
+  Subscriptions: "📺",
+  Insurance: "🌂",
+};

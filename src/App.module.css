@@ -1,0 +1,33 @@
+.list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.content {
+  margin: 0 80px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.sum {
+  font-size: 56px;
+}
+
+.leftColumn {
+  border-right: 1px solid #f6f6f6;
+  padding-right: 80px;
+}
+
+.categoryList {
+  padding-left: 80px;
+}
+
+.categoryListTitle {
+  font-size: 16px;
+  opacity: 0.5;
+}
+
+.categoryFilterButton {
+  background: none;
+  border: 2px solid #f8f8f8;
+}
